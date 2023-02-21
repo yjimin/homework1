@@ -1,1 +1,4 @@
 
+What is a remote repository?
+
+A remote repository is a codebase that can be accessed remotely potentially by multiple people.
